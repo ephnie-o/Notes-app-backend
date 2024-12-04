@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yby=ea&9s$&#xu1f=qgv=2fo$)=$d&*@u@#26p-tr7wbx)8%8j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["notes-app-backend-qumy.onrender.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
