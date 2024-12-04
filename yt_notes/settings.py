@@ -76,7 +76,8 @@ WSGI_APPLICATION = 'yt_notes.wsgi.application'
 
 CORS_ALLOWED_ORIGINS = [
 "http://localhost:5173",
-"http://localhost:5173"
+"http://localhost:5173",
+"https://notes-app-frontend-zxd1.onrender.com"
 ]
 
 
